@@ -1,0 +1,6 @@
+{
+  "name": "Aura Coach - AI Productivity & Screen Time",
+  "description": "Personalized digital coach and agentic AI study assistant for ingesting notes & PDFs to generate mock tests, topic summaries, flashcards, smart task planning, and screen time balance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

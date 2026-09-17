@@ -1,0 +1,726 @@
+{
+  "users": [
+    {
+      "id": "user_priya_demo",
+      "name": "Priya Raman",
+      "email": "student@university.edu",
+      "passwordHash": "$2a$10$wO0G7fN2n8B.ZtX48eQ32O0wW4hU4Y7ZtL9c47Q4C6KkP7O9yB1O2",
+      "college": "National Institute of Technology",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Priya",
+      "streakDays": 4,
+      "level": 2,
+      "xp": 450,
+      "targetMilestone": "Placement Interview Prep",
+      "selectedGoals": [
+        "Placement Interviews",
+        "Semester Exam Prep"
+      ],
+      "dailySocialBudgetMinutes": 45,
+      "socialTimeUsedMinutes": 20,
+      "aiProactivity": "balanced",
+      "activeTheme": "nature",
+      "petCompanionEnabled": true,
+      "hapticFeedbackEnabled": true,
+      "offlineCacheEnabled": true,
+      "notificationsEnabled": true,
+      "createdAt": "2026-09-16T12:36:03.073Z",
+      "updatedAt": "2026-09-16T15:35:52.305Z"
+    },
+    {
+      "id": "user_1789563871547_z4234",
+      "name": "aura",
+      "email": "manju13112006@gmail.com",
+      "college": "University Cohort",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=aura",
+      "passwordHash": "$2b$10$UummvGFiOE0zwKGsnIw5COuWPYYwxSa27gWrE7KE9Cc1WJTUaAO0.",
+      "streakDays": 1,
+      "level": 1,
+      "xp": 100,
+      "targetMilestone": "Placement Interviews",
+      "selectedGoals": [
+        "Placement Interviews",
+        "Semester Exam Prep"
+      ],
+      "dailySocialBudgetMinutes": 45,
+      "socialTimeUsedMinutes": 0,
+      "aiProactivity": "balanced",
+      "activeTheme": "nature",
+      "petCompanionEnabled": true,
+      "hapticFeedbackEnabled": true,
+      "offlineCacheEnabled": true,
+      "notificationsEnabled": false,
+      "createdAt": "2026-09-16T13:04:31.547Z",
+      "updatedAt": "2026-09-16T13:04:59.478Z",
+      "_id": "user_1789563871547_z4234"
+    },
+    {
+      "id": "user_1789571247141_13aaz",
+      "name": "Manju",
+      "email": "test_manju@university.edu",
+      "college": "University Cohort",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Manju",
+      "passwordHash": "$2b$10$HfH.OklgGUvTcPo5Hm//HehCPCB98bKnMB0bgA8Ed/P1E8arD/yy2",
+      "streakDays": 1,
+      "level": 1,
+      "xp": 100,
+      "targetMilestone": "Placement Interview Prep",
+      "selectedGoals": [
+        "Placement Interviews"
+      ],
+      "dailySocialBudgetMinutes": 45,
+      "socialTimeUsedMinutes": 0,
+      "aiProactivity": "balanced",
+      "activeTheme": "midnight",
+      "petCompanionEnabled": true,
+      "hapticFeedbackEnabled": true,
+      "offlineCacheEnabled": true,
+      "notificationsEnabled": true,
+      "createdAt": "2026-09-16T15:07:27.141Z",
+      "updatedAt": "2026-09-16T15:07:27.141Z",
+      "_id": "user_1789571247141_13aaz"
+    },
+    {
+      "id": "user_1789571269778_txal3",
+      "name": "Manju",
+      "email": "student_test@university.edu",
+      "college": "University Cohort",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Manju",
+      "passwordHash": "$2b$10$tmiAfEHU6AhpEn26xXuIFuhKRzugnuELkKuT/KGAC6ZPMlP7Gnrty",
+      "streakDays": 1,
+      "level": 1,
+      "xp": 100,
+      "targetMilestone": "Placement Interview Prep",
+      "selectedGoals": [
+        "Placement Interviews"
+      ],
+      "dailySocialBudgetMinutes": 45,
+      "socialTimeUsedMinutes": 0,
+      "aiProactivity": "balanced",
+      "activeTheme": "midnight",
+      "petCompanionEnabled": true,
+      "hapticFeedbackEnabled": true,
+      "offlineCacheEnabled": true,
+      "notificationsEnabled": true,
+      "createdAt": "2026-09-16T15:07:49.778Z",
+      "updatedAt": "2026-09-16T15:07:49.778Z",
+      "_id": "user_1789571269778_txal3"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "task_1",
+      "userId": "user_priya_demo",
+      "title": "Review Dynamic Programming Trees",
+      "tag": "Core Placement",
+      "durationMinutes": 45,
+      "status": "active",
+      "priority": "high",
+      "isMicroTask": false,
+      "order": 1,
+      "createdAt": "2026-09-16T11:36:03.073Z"
+    },
+    {
+      "id": "task_2",
+      "userId": "user_priya_demo",
+      "title": "Complete OS Assignment 3",
+      "tag": "Semester",
+      "durationMinutes": 30,
+      "status": "queued",
+      "priority": "medium",
+      "isMicroTask": false,
+      "order": 2,
+      "createdAt": "2026-09-16T12:06:03.073Z"
+    },
+    {
+      "id": "task_3",
+      "userId": "user_priya_demo",
+      "title": "Review 5 System Design Flashcards",
+      "tag": "Core Placement",
+      "durationMinutes": 10,
+      "status": "queued",
+      "priority": "low",
+      "isMicroTask": true,
+      "order": 3,
+      "createdAt": "2026-09-16T12:36:03.073Z"
+    },
+    {
+      "id": "task_1789563871547_1",
+      "userId": "user_1789563871547_z4234",
+      "title": "Review Dynamic Programming Trees",
+      "tag": "Core Placement",
+      "durationMinutes": 45,
+      "status": "active",
+      "priority": "high",
+      "isMicroTask": false,
+      "order": 1,
+      "createdAt": "2026-09-16T13:04:31.547Z",
+      "_id": "task_1789563871547_1",
+      "updatedAt": "2026-09-16T13:04:31.547Z"
+    },
+    {
+      "id": "task_1789563871547_2",
+      "userId": "user_1789563871547_z4234",
+      "title": "Complete OS Assignment 3",
+      "tag": "Semester",
+      "durationMinutes": 30,
+      "status": "queued",
+      "priority": "medium",
+      "isMicroTask": false,
+      "order": 2,
+      "createdAt": "2026-09-16T13:04:31.547Z",
+      "_id": "task_1789563871547_2",
+      "updatedAt": "2026-09-16T13:04:31.547Z"
+    },
+    {
+      "id": "task_1789571247141_1",
+      "userId": "user_1789571247141_13aaz",
+      "title": "Review Dynamic Programming Trees",
+      "tag": "Core Placement",
+      "durationMinutes": 45,
+      "status": "active",
+      "priority": "high",
+      "isMicroTask": false,
+      "order": 1,
+      "createdAt": "2026-09-16T15:07:27.141Z",
+      "_id": "task_1789571247141_1",
+      "updatedAt": "2026-09-16T15:07:27.142Z"
+    },
+    {
+      "id": "task_1789571247142_2",
+      "userId": "user_1789571247141_13aaz",
+      "title": "Complete OS Assignment 3",
+      "tag": "Semester",
+      "durationMinutes": 30,
+      "status": "queued",
+      "priority": "medium",
+      "isMicroTask": false,
+      "order": 2,
+      "createdAt": "2026-09-16T15:07:27.142Z",
+      "_id": "task_1789571247142_2",
+      "updatedAt": "2026-09-16T15:07:27.142Z"
+    },
+    {
+      "id": "task_1789571269779_1",
+      "userId": "user_1789571269778_txal3",
+      "title": "Review Dynamic Programming Trees",
+      "tag": "Core Placement",
+      "durationMinutes": 45,
+      "status": "active",
+      "priority": "high",
+      "isMicroTask": false,
+      "order": 1,
+      "createdAt": "2026-09-16T15:07:49.779Z",
+      "_id": "task_1789571269779_1",
+      "updatedAt": "2026-09-16T15:07:49.779Z"
+    },
+    {
+      "id": "task_1789571269779_2",
+      "userId": "user_1789571269778_txal3",
+      "title": "Complete OS Assignment 3",
+      "tag": "Semester",
+      "durationMinutes": 30,
+      "status": "queued",
+      "priority": "medium",
+      "isMicroTask": false,
+      "order": 2,
+      "createdAt": "2026-09-16T15:07:49.779Z",
+      "_id": "task_1789571269779_2",
+      "updatedAt": "2026-09-16T15:07:49.779Z"
+    }
+  ],
+  "screentime": [
+    {
+      "id": "st_instagram",
+      "userId": "user_priya_demo",
+      "appName": "Instagram",
+      "minutesUsed": 20,
+      "dailyAllowance": 45,
+      "unlockedExtraMinutes": 0,
+      "lastUpdated": "2026-09-16T12:36:03.073Z"
+    },
+    {
+      "id": "st_user_1789563871547_z4234_ig",
+      "userId": "user_1789563871547_z4234",
+      "appName": "Instagram",
+      "minutesUsed": 0,
+      "dailyAllowance": 45,
+      "unlockedExtraMinutes": 0,
+      "lastUpdated": "2026-09-16T13:04:31.547Z",
+      "_id": "st_user_1789563871547_z4234_ig",
+      "createdAt": "2026-09-16T13:04:31.547Z",
+      "updatedAt": "2026-09-16T13:04:31.547Z"
+    },
+    {
+      "appName": "YouTube",
+      "category": "entertainment",
+      "iconType": "youtube",
+      "color": "#EF4444",
+      "minutesUsed": 42,
+      "dailyAllowance": 60,
+      "unlockedExtraMinutes": 0,
+      "isRestricted": true,
+      "isLimitReached": false,
+      "id": "st_user_priya_demo_youtube",
+      "userId": "user_priya_demo",
+      "lastUpdated": "2026-09-16T13:18:51.607Z",
+      "_id": "st_user_priya_demo_youtube",
+      "createdAt": "2026-09-16T13:18:51.607Z",
+      "updatedAt": "2026-09-16T13:18:51.607Z"
+    },
+    {
+      "appName": "TikTok / Reels",
+      "category": "entertainment",
+      "iconType": "video",
+      "color": "#00F2FE",
+      "minutesUsed": 28,
+      "dailyAllowance": 30,
+      "unlockedExtraMinutes": 0,
+      "isRestricted": true,
+      "isLimitReached": false,
+      "id": "st_user_priya_demo_tiktok___reels",
+      "userId": "user_priya_demo",
+      "lastUpdated": "2026-09-16T13:18:51.608Z",
+      "_id": "st_user_priya_demo_tiktok___reels",
+      "createdAt": "2026-09-16T13:18:51.608Z",
+      "updatedAt": "2026-09-16T13:18:51.608Z"
+    },
+    {
+      "appName": "WhatsApp",
+      "category": "communication",
+      "iconType": "message-circle",
+      "color": "#25D366",
+      "minutesUsed": 18,
+      "dailyAllowance": 40,
+      "unlockedExtraMinutes": 0,
+      "isRestricted": false,
+      "isLimitReached": false,
+      "id": "st_user_priya_demo_whatsapp",
+      "userId": "user_priya_demo",
+      "lastUpdated": "2026-09-16T13:18:51.608Z",
+      "_id": "st_user_priya_demo_whatsapp",
+      "createdAt": "2026-09-16T13:18:51.608Z",
+      "updatedAt": "2026-09-16T13:18:51.608Z"
+    },
+    {
+      "appName": "X (Twitter)",
+      "category": "social",
+      "iconType": "twitter",
+      "color": "#38BDF8",
+      "minutesUsed": 20,
+      "dailyAllowance": 30,
+      "unlockedExtraMinutes": 0,
+      "isRestricted": true,
+      "isLimitReached": false,
+      "id": "st_user_priya_demo_x__twitter_",
+      "userId": "user_priya_demo",
+      "lastUpdated": "2026-09-16T13:18:51.608Z",
+      "_id": "st_user_priya_demo_x__twitter_",
+      "createdAt": "2026-09-16T13:18:51.608Z",
+      "updatedAt": "2026-09-16T13:18:51.608Z"
+    },
+    {
+      "appName": "Chrome Browser",
+      "category": "browsing",
+      "iconType": "globe",
+      "color": "#F59E0B",
+      "minutesUsed": 34,
+      "dailyAllowance": 45,
+      "unlockedExtraMinutes": 0,
+      "isRestricted": false,
+      "isLimitReached": false,
+      "id": "st_user_priya_demo_chrome_browser",
+      "userId": "user_priya_demo",
+      "lastUpdated": "2026-09-16T13:18:51.608Z",
+      "_id": "st_user_priya_demo_chrome_browser",
+      "createdAt": "2026-09-16T13:18:51.608Z",
+      "updatedAt": "2026-09-16T13:18:51.608Z"
+    },
+    {
+      "appName": "Mobile Gaming",
+      "category": "gaming",
+      "iconType": "gamepad-2",
+      "color": "#8B5CF6",
+      "minutesUsed": 15,
+      "dailyAllowance": 30,
+      "unlockedExtraMinutes": 0,
+      "isRestricted": true,
+      "isLimitReached": false,
+      "id": "st_user_priya_demo_mobile_gaming",
+      "userId": "user_priya_demo",
+      "lastUpdated": "2026-09-16T13:18:51.608Z",
+      "_id": "st_user_priya_demo_mobile_gaming",
+      "createdAt": "2026-09-16T13:18:51.608Z",
+      "updatedAt": "2026-09-16T13:18:51.608Z"
+    },
+    {
+      "appName": "Reddit",
+      "category": "social",
+      "iconType": "message-square",
+      "color": "#FF4500",
+      "minutesUsed": 12,
+      "dailyAllowance": 25,
+      "unlockedExtraMinutes": 0,
+      "isRestricted": true,
+      "isLimitReached": false,
+      "id": "st_user_priya_demo_reddit",
+      "userId": "user_priya_demo",
+      "lastUpdated": "2026-09-16T13:18:51.609Z",
+      "_id": "st_user_priya_demo_reddit",
+      "createdAt": "2026-09-16T13:18:51.609Z",
+      "updatedAt": "2026-09-16T13:18:51.609Z"
+    },
+    {
+      "id": "st_user_1789571247141_13aaz_ig",
+      "userId": "user_1789571247141_13aaz",
+      "appName": "Instagram",
+      "minutesUsed": 0,
+      "dailyAllowance": 45,
+      "unlockedExtraMinutes": 0,
+      "lastUpdated": "2026-09-16T15:07:27.142Z",
+      "_id": "st_user_1789571247141_13aaz_ig",
+      "createdAt": "2026-09-16T15:07:27.142Z",
+      "updatedAt": "2026-09-16T15:07:27.142Z"
+    },
+    {
+      "id": "st_user_1789571269778_txal3_ig",
+      "userId": "user_1789571269778_txal3",
+      "appName": "Instagram",
+      "minutesUsed": 0,
+      "dailyAllowance": 45,
+      "unlockedExtraMinutes": 0,
+      "lastUpdated": "2026-09-16T15:07:49.779Z",
+      "_id": "st_user_1789571269778_txal3_ig",
+      "createdAt": "2026-09-16T15:07:49.779Z",
+      "updatedAt": "2026-09-16T15:07:49.779Z"
+    }
+  ],
+  "focus_sessions": [],
+  "analytics": [],
+  "agent_sessions": [
+    {
+      "sessionId": "agent_1789566174804_y69voa",
+      "userId": "guest",
+      "mode": "mock_test",
+      "userPrompt": "Generate 4 mock test questions on Deadlock prevention",
+      "sourceNoteSnippet": "Deadlock conditions: Mutual Exclusion, Hold and Wait, No Preemption, Circular Wait",
+      "agentThoughtPlan": "1) Core topics detected: Deadlock conditions (Coffman conditions) and prevention strategies. 2) Pedagogical strategy: Focus on mapping the four necessary conditions to their corresponding prevention techniques. 3) Structure: 4 multiple-choice questions covering theoretical understanding and practical application of deadlock prevention.",
+      "mockTest": {
+        "title": "Deadlock Prevention Mastery Test",
+        "durationMinutesEstimate": 15,
+        "instructions": "Select the single best answer for each question. Focus on the relationship between the four Coffman conditions and prevention methods.",
+        "questions": [
+          {
+            "id": "q1",
+            "question": "Which of the following strategies is used to prevent the 'Hold and Wait' condition?",
+            "options": [
+              "Requiring processes to request all resources at the start of execution",
+              "Forcing processes to release all held resources before requesting new ones",
+              "Implementing a strict resource ordering hierarchy",
+              "Allowing preemption of resources by the operating system"
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "The 'Hold and Wait' condition is prevented by ensuring that if a process requests a resource, it does not hold any other resources. This is typically achieved by requiring the process to request all necessary resources at once before execution begins.",
+            "difficulty": "medium",
+            "topicTag": "Deadlock Prevention"
+          },
+          {
+            "id": "q2",
+            "question": "To prevent 'Circular Wait', a common technique is to:",
+            "options": [
+              "Use a semaphore for every resource",
+              "Impose a total ordering on all resource types and require requests in increasing order",
+              "Increase the number of available resources",
+              "Disable interrupts during resource allocation"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "Circular wait occurs when there is a cycle in the resource allocation graph. By imposing a total ordering on resources (e.g., assigning a unique ID to each resource type), we can ensure that a process can only request resources in a specific order, thereby breaking the cycle.",
+            "difficulty": "hard",
+            "topicTag": "Deadlock Prevention"
+          },
+          {
+            "id": "q3",
+            "question": "Which condition is generally considered the most difficult to prevent in a practical operating system?",
+            "options": [
+              "Hold and Wait",
+              "Circular Wait",
+              "Mutual Exclusion",
+              "No Preemption"
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "Mutual Exclusion is often inherent to the nature of non-sharable resources (like printers or tape drives). It is difficult to prevent because the resource itself requires exclusive access to function correctly.",
+            "difficulty": "medium",
+            "topicTag": "Deadlock Conditions"
+          },
+          {
+            "id": "q4",
+            "question": "If a system allows a process to be preempted when it requests a resource that cannot be immediately allocated, which condition is being violated?",
+            "options": [
+              "Mutual Exclusion",
+              "Hold and Wait",
+              "Circular Wait",
+              "No Preemption"
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "The 'No Preemption' condition states that a resource can only be released voluntarily by the process holding it. By allowing the OS to forcibly take a resource away from a process, we violate the No Preemption condition, thus preventing deadlock.",
+            "difficulty": "medium",
+            "topicTag": "Deadlock Prevention"
+          }
+        ]
+      },
+      "summary": {
+        "title": "Deadlock Prevention Overview",
+        "executiveSummary": "Deadlock prevention works by ensuring that at least one of the four Coffman conditions (Mutual Exclusion, Hold and Wait, No Preemption, Circular Wait) cannot hold. By systematically invalidating these conditions, the system guarantees that a deadlock state can never be reached.",
+        "coreConcepts": [
+          {
+            "name": "Mutual Exclusion",
+            "description": "At least one resource must be held in a non-sharable mode.",
+            "exampleOrFormula": "Printer access or write-access to a file."
+          },
+          {
+            "name": "Hold and Wait",
+            "description": "A process is holding at least one resource and waiting to acquire additional resources held by others.",
+            "exampleOrFormula": "Process A holds R1, waits for R2; Process B holds R2, waits for R1."
+          },
+          {
+            "name": "No Preemption",
+            "description": "Resources cannot be forcibly taken from a process; they must be released voluntarily.",
+            "exampleOrFormula": "OS cannot interrupt a process to reclaim a CPU-bound resource."
+          },
+          {
+            "name": "Circular Wait",
+            "description": "A closed chain of processes exists where each process holds a resource required by the next.",
+            "exampleOrFormula": "P1->P2->P3->P1"
+          }
+        ],
+        "pitfallsToAvoid": [
+          "Confusing 'Deadlock Prevention' (making deadlock impossible) with 'Deadlock Avoidance' (using algorithms like Banker's to stay in safe states).",
+          "Assuming that preventing one condition is sufficient for all system types."
+        ],
+        "vivaOrInterviewQuestions": [
+          "Why is Mutual Exclusion the hardest condition to prevent?",
+          "How does resource ordering prevent circular wait mathematically?",
+          "What are the performance trade-offs of preventing deadlock versus detecting it?"
+        ],
+        "takeawayChecklist": [
+          "Break Hold and Wait by requesting all resources at once.",
+          "Break Circular Wait by enforcing a strict resource hierarchy.",
+          "Break No Preemption by allowing resource revocation."
+        ]
+      },
+      "flashcards": {
+        "deckTitle": "Deadlock Prevention Fundamentals",
+        "cards": [
+          {
+            "id": "fc1",
+            "front": "What are the four Coffman conditions?",
+            "back": "Mutual Exclusion, Hold and Wait, No Preemption, Circular Wait.",
+            "category": "Theory",
+            "mnemonicOrKeyFact": "Mnemonic: M-H-N-C (My House Needs Cleaning)"
+          },
+          {
+            "id": "fc2",
+            "front": "How do you prevent 'Hold and Wait'?",
+            "back": "Require processes to request all resources before execution or only when holding none.",
+            "category": "Prevention",
+            "mnemonicOrKeyFact": "All-or-nothing approach."
+          },
+          {
+            "id": "fc3",
+            "front": "What is the primary method to break 'Circular Wait'?",
+            "back": "Total resource ordering (assigning a unique ID to each resource and requesting in increasing order).",
+            "category": "Prevention",
+            "mnemonicOrKeyFact": "Resource Hierarchy."
+          }
+        ]
+      },
+      "customOutput": "Deadlock prevention is a proactive strategy. Unlike detection, which happens after the fact, prevention ensures the system is 'deadlock-free' by design. Always note that prevention often leads to low resource utilization.",
+      "suggestedTasks": [
+        {
+          "title": "Draw a Resource Allocation Graph for a circular wait scenario",
+          "durationMinutes": 15,
+          "tag": "Technical",
+          "isMicroTask": true
+        },
+        {
+          "title": "Compare Deadlock Prevention vs. Avoidance in a table",
+          "durationMinutes": 20,
+          "tag": "Conceptual",
+          "isMicroTask": false
+        }
+      ],
+      "createdAt": "2026-09-16T13:43:03.789Z",
+      "_id": "id_1789566183789_v4okluh",
+      "id": "id_1789566183789_v4okluh",
+      "updatedAt": "2026-09-16T13:43:03.789Z"
+    },
+    {
+      "sessionId": "agent_1789571298508_yzwbv2",
+      "userId": "guest",
+      "mode": "flashcards",
+      "userPrompt": "Binary Search Tree basics",
+      "agentThoughtPlan": "1) Core topics detected: Binary Search Tree (BST) properties, operations, and time complexity. 2) Pedagogical strategy: Active recall focusing on the definition and performance characteristics. 3) Structure: Flashcards created to cover structural rules, search efficiency, and worst-case scenarios.",
+      "mockTest": null,
+      "summary": null,
+      "flashcards": {
+        "deckTitle": "BST Essentials",
+        "cards": [
+          {
+            "id": "fc1",
+            "front": "What is the core property of a Binary Search Tree (BST)?",
+            "back": "For any node, all values in the left subtree are smaller, and all values in the right subtree are larger.",
+            "category": "Definition",
+            "mnemonicOrKeyFact": "Left < Root < Right"
+          },
+          {
+            "id": "fc2",
+            "front": "What is the average time complexity for search, insert, and delete in a BST?",
+            "back": "O(log n)",
+            "category": "Complexity",
+            "mnemonicOrKeyFact": "Balanced tree height is log n"
+          },
+          {
+            "id": "fc3",
+            "front": "What is the worst-case time complexity for BST operations?",
+            "back": "O(n)",
+            "category": "Complexity",
+            "mnemonicOrKeyFact": "Occurs when the tree becomes a linked list (skewed)"
+          },
+          {
+            "id": "fc4",
+            "front": "How do you find the minimum value in a BST?",
+            "back": "Traverse as far left as possible from the root.",
+            "category": "Operations",
+            "mnemonicOrKeyFact": "Leftmost node is the minimum"
+          },
+          {
+            "id": "fc5",
+            "front": "What traversal method visits nodes in sorted order?",
+            "back": "In-order traversal (Left, Root, Right).",
+            "category": "Traversal",
+            "mnemonicOrKeyFact": "In-order = Increasing order"
+          },
+          {
+            "id": "fc6",
+            "front": "What happens to the tree structure if you insert sorted data into a standard BST?",
+            "back": "It becomes a skewed tree (a degenerate linked list), leading to O(n) performance.",
+            "category": "Pitfalls",
+            "mnemonicOrKeyFact": "Sorted input = Worst case"
+          }
+        ]
+      },
+      "customOutput": "Binary Search Trees (BSTs) are fundamental data structures that maintain sorted data to allow for efficient searching. The efficiency of a BST is entirely dependent on the height of the tree. When the tree is balanced, operations are logarithmic; however, without self-balancing mechanisms (like AVL or Red-Black trees), insertion order can degrade performance to linear time.",
+      "suggestedTasks": [
+        {
+          "title": "Visualize BST insertion for the sequence [5, 3, 8, 1, 4]",
+          "durationMinutes": 10,
+          "tag": "Practice",
+          "isMicroTask": true
+        },
+        {
+          "title": "Implement a simple BST search function in your preferred language",
+          "durationMinutes": 20,
+          "tag": "Technical",
+          "isMicroTask": false
+        }
+      ],
+      "createdAt": "2026-09-16T15:08:36.212Z",
+      "_id": "id_1789571316212_nk9i8o0",
+      "id": "id_1789571316212_nk9i8o0",
+      "updatedAt": "2026-09-16T15:08:36.212Z"
+    },
+    {
+      "sessionId": "agent_1789573599812_7r4nqm",
+      "userId": "user_priya_demo",
+      "mode": "summary",
+      "userPrompt": "Summarize quick sorting vs merge sorting in 2 bullets",
+      "agentThoughtPlan": "1) Detected core topic: Algorithmic comparison between Quick Sort and Merge Sort. 2) Pedagogical strategy: Synthesized key differences focusing on time/space complexity, stability, and partitioning/merging mechanisms. 3) Structured output for rapid retention via summary, flashcards, and a quick self-assessment question.",
+      "mockTest": {
+        "title": "Quick Sort vs Merge Sort Quick Check",
+        "durationMinutesEstimate": 5,
+        "instructions": "Answer the following question to test your core understanding of sorting algorithm trade-offs.",
+        "questions": [
+          {
+            "id": "q1",
+            "question": "Which of the following statements correctly contrasts Quick Sort and Merge Sort?",
+            "options": [
+              "Merge Sort works in-place with O(1) space, whereas Quick Sort requires O(n) space.",
+              "Quick Sort guarantees O(n log n) time in the worst case, whereas Merge Sort is O(n²).",
+              "Quick Sort operates in-place with O(1) extra space (average O(n log n) time), while Merge Sort guarantees O(n log n) time but requires O(n) auxiliary space.",
+              "Both algorithms are naturally stable and require O(n) auxiliary memory."
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "Quick Sort partitions the array in-place requiring O(1) extra space (excluding call stack), but has an O(n²) worst-case time complexity. Merge Sort guarantees O(n log n) time complexity under all conditions but requires O(n) auxiliary memory to perform the merge step.",
+            "difficulty": "easy",
+            "topicTag": "Sorting Algorithms"
+          }
+        ]
+      },
+      "summary": {
+        "title": "Quick Sort vs Merge Sort",
+        "executiveSummary": "Quick Sort and Merge Sort are fundamental Divide-and-Conquer sorting algorithms with average time complexities of O(n log n). Quick Sort selects a pivot element and partitions the array in-place, while Merge Sort divides the dataset into halves, recursively sorts them, and merges the sorted sub-arrays using auxiliary memory.",
+        "coreConcepts": [
+          {
+            "name": "Quick Sort",
+            "description": "In-place partition-based algorithm. Efficient cache locality with O(1) auxiliary space, but degrades to O(n²) time complexity if pivots are chosen poorly.",
+            "exampleOrFormula": "Average Time: O(n log n), Worst Time: O(n²), Auxiliary Space: O(1) or O(log n) stack"
+          },
+          {
+            "name": "Merge Sort",
+            "description": "Stable divide-and-conquer algorithm that guarantees O(n log n) time complexity in all cases, at the expense of O(n) extra space.",
+            "exampleOrFormula": "Best/Avg/Worst Time: O(n log n), Auxiliary Space: O(n)"
+          }
+        ],
+        "pitfallsToAvoid": [
+          "Assuming Quick Sort is strictly O(n log n) without considering bad pivot choices leading to O(n²).",
+          "Forgetting that standard Merge Sort requires O(n) extra allocation, making it less memory-friendly for massive arrays."
+        ],
+        "vivaOrInterviewQuestions": [
+          "Why is Quick Sort generally faster than Merge Sort in practice for arrays despite having a worse worst-case time complexity?",
+          "Which algorithm is better suited for sorting linked lists and why?"
+        ],
+        "takeawayChecklist": [
+          "Quick Sort = In-place, unstable, O(1) space, O(n log n) avg, O(n²) worst.",
+          "Merge Sort = Out-of-place, stable, O(n) space, guaranteed O(n log n)."
+        ]
+      },
+      "flashcards": {
+        "deckTitle": "Quick Sort vs Merge Sort Flashcards",
+        "cards": [
+          {
+            "id": "fc1",
+            "front": "What is the primary memory allocation difference between Quick Sort and Merge Sort?",
+            "back": "Quick Sort operates in-place requiring O(1) auxiliary space, whereas Merge Sort requires O(n) extra space to merge sub-arrays.",
+            "category": "Space Complexity",
+            "mnemonicOrKeyFact": "Quick = In-place (Quick on space); Merge = Out-of-place (Needs extra room to merge)."
+          },
+          {
+            "id": "fc2",
+            "front": "Which algorithm offers guaranteed O(n log n) time performance and stability?",
+            "back": "Merge Sort guarantees O(n log n) performance in best, average, and worst cases, and is stable by default.",
+            "category": "Time Complexity & Stability",
+            "mnemonicOrKeyFact": "Merge Sort always guarantees consistency across all cases."
+          }
+        ]
+      },
+      "customOutput": "### Quick Sort vs Merge Sort (Summary in 2 Bullets)\n\n* **Quick Sort:** An in-place, non-stable algorithm that partitions elements around a pivot, offering fast practical performance with $O(1)$ auxiliary space and average $O(n \\log n)$ time, though it can degrade to $O(n^2)$ worst-case time under poor pivot selection.\n* **Merge Sort:** A stable, divide-and-conquer algorithm that guarantees $O(n \\log n)$ time complexity across best, average, and worst cases by recursively splitting arrays in half, requiring $O(n)$ auxiliary memory for the merging step.",
+      "suggestedTasks": [
+        {
+          "title": "Implement Quick Sort and Merge Sort in Python/C++ to compare execution times",
+          "durationMinutes": 25,
+          "tag": "Coding Practice",
+          "isMicroTask": false
+        },
+        {
+          "title": "Review stability and in-place sorting definitions",
+          "durationMinutes": 10,
+          "tag": "Theory Review",
+          "isMicroTask": true
+        }
+      ],
+      "createdAt": "2026-09-16T15:46:52.744Z",
+      "_id": "id_1789573612744_pnmqngv",
+      "id": "id_1789573612744_pnmqngv",
+      "updatedAt": "2026-09-16T15:46:52.744Z"
+    }
+  ]
+}
